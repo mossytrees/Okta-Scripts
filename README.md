@@ -8,5 +8,5 @@ I've included some basic notes within the scripts themselves, if you have questi
 
 ## Script specific How-To's
 
-- [saveEventLogs](https://github.com/mbegan/Okta-Scripts/blob/master/saveEventLogs.md)
+- [saveEventLogs](https://github.com/mbegan/Okta-Scripts/blob/master/saveEventLogs.md) (Note that the Okta events API has been [superceded by](https://developer.okta.com/docs/concepts/events-api-migration/) the System Log API.  Thus, you should use the V2 script. 
 - [saveEventLogsV2](https://github.com/mbegan/Okta-Scripts/blob/master/saveEventLogs.md)
